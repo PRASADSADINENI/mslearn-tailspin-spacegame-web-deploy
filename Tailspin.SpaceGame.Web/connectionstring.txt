@@ -1,0 +1,1 @@
+erver=tcp:tailspin-space-game-sql-1993.database.windows.net,1433;Initial Catalog=tailspindatabase;Persist Security Info=False;User ID=azuresql;Password=Devops@201;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;
